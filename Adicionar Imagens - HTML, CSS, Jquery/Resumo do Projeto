@@ -1,0 +1,13 @@
+Explicação do Projeto:
+
+Este projeto é uma galeria de fotos que permite aos usuários adicionar novas imagens por meio de uma URL. Alguns dos recursos incluem:
+
+Formulário de inserção de imagem: Os usuários podem clicar no botão "Nova imagem" na parte superior da página para abrir um formulário
+de inserção de imagem que permite que eles adicionem uma nova imagem à galeria por meio de uma URL.
+
+Galeria de fotos: A página apresenta uma galeria de fotos existentes com imagens predefinidas e seus respectivos links.
+Ao passar o mouse sobre uma imagem, uma sobreposição com um link para ver a imagem em tamanho real é exibida.
+
+Interatividade com jQuery: O projeto usa a biblioteca jQuery para adicionar interatividade à página.
+O código jQuery implementa recursos como animação de slide para exibir e ocultar o formulário de inserção
+de imagem e também adiciona uma nova imagem à galeria quando o formulário é enviado.
