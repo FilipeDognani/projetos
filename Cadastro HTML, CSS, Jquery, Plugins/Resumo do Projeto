@@ -1,0 +1,13 @@
+Explicação do Rrojeto:
+
+Este é um projeto de formulário de cadastro que utiliza HTML, CSS e JavaScript. O código HTML contém os campos do formulário de cadastro, 
+incluindo nome completo, e-mail, telefone, CPF, endereço completo e CEP. Cada campo tem uma etiqueta correspondente que descreve o que é esperado. 
+Há também um botão "Cadastrar" no final do formulário para enviar os dados.
+
+O CSS é usado para estilizar o formulário, com definições de estilo para as etiquetas, campos de entrada de texto e botão.
+Ele torna o formulário mais atraente e fácil de usar.
+
+O JavaScript adiciona interatividade ao formulário. Ele aplica uma máscara para o campo do CPF e CEP, tornando a entrada de dados mais fácil e consistente. 
+Ele também adiciona um ouvinte de evento para o envio do formulário. Quando o usuário clica no botão "Cadastrar", o JavaScript interrompe o comportamento
+padrão do formulário, simula o envio dos dados para um servidor e exibe uma mensagem de sucesso na página após 2 segundos. Ele também limpa os campos do formulário
+para que o usuário possa preencher novos dados de forma fácil e rápida.
