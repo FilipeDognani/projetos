@@ -1,0 +1,20 @@
+Explicação do Projeto:
+
+O projeto consiste em um portal de notícias em formato de página web, construído com as tecnologias HTML, CSS e JavaScript. A seguir, três itens
+que descrevem com mais detalhes o projeto:
+
+Estrutura da página: A página web é composta por um cabeçalho, um menu de navegação, uma seção de destaques, 
+uma seção de últimas notícias e uma seção de novidades. O cabeçalho contém o título do portal, um formulário de busca e um botão de menu. 
+O menu de navegação contém duas categorias principais de notícias (esportes e economia), cada uma com um submenu com subcategorias. 
+A seção de destaques exibe uma notícia em destaque, enquanto a seção de últimas notícias apresenta quatro notícias recentes em formato de lista. 
+A seção de novidades, localizada na barra lateral direita, exibe três notícias de forma resumida.
+
+Design e estilo: A página possui um design simples e limpo, com cores predominantes em tons de azul e branco. A tipografia é composta por duas
+fontes do Google Fonts: Bungee e Roboto. O layout é responsivo, ou seja, se adapta a diferentes tamanhos de tela, e é construído com uma
+grade de 12 colunas utilizando a técnica de CSS Grid. Há também efeitos de hover em alguns elementos da página, como os botões do menu de navegação
+e os links das notícias.
+
+Interatividade: O projeto possui interatividade por meio do JavaScript, que é utilizado para criar a funcionalidade do botão de menu de navegação. 
+Ao clicar no botão, o menu é exibido ou ocultado de forma suave através do efeito slideToggle. Além disso, os links das notícias são clicáveis e 
+levam o usuário para uma página externa com o conteúdo completo da notícia. O formulário de busca e o botão de envio não possuem funcionalidade, mas podem
+ser implementados posteriormente em uma versão futura do projeto.
