@@ -1,0 +1,21 @@
+Explicação do Projeto:
+
+O projeto em questão é uma página web que funciona como uma calculadora de médias de notas. Abaixo estão descritos três aspectos relevantes desse projeto:
+
+Funcionamento: O usuário pode adicionar o nome e a nota de uma atividade em um formulário presente na página, clicando no botão "Adicionar +". 
+As informações inseridas são então adicionadas em uma tabela presente na página, que mostra o nome da atividade, a nota e se a nota é suficiente 
+para aprovação ou não (considerando a nota mínima de 7). Quando o usuário adiciona uma nova atividade, a média final é atualizada em tempo real. 
+A média final é exibida no final da tabela e é atualizada toda vez que o usuário adiciona uma nova atividade. A média é calculada como a média 
+aritmética das notas de todas as atividades adicionadas.
+
+Design: A página web apresenta um layout agradável e bem organizado. O fundo tem uma cor verde suave e as fontes utilizadas são "Roboto" e "Bungee".
+O título da página ("Calculadora de Médias") é exibido no topo e abaixo dele há um formulário para adicionar as atividades. 
+A tabela é exibida logo abaixo do formulário, com o cabeçalho contendo as informações "Nome da atividade", "Nota da atividade" e "Aprovado?".
+As notas são exibidas em células coloridas, verdes para notas maiores ou iguais a 7 e vermelhas para notas menores que 7. 
+A média final é exibida em uma linha especial no final da tabela, com um valor numérico e uma mensagem indicando se o aluno foi aprovado ou reprovado.
+
+Código: O projeto utiliza HTML, CSS e JavaScript para funcionar. O HTML é utilizado para estruturar a página, incluindo o formulário e a tabela.
+O CSS é utilizado para definir o estilo da página, como as cores, as fontes e a disposição dos elementos.
+O JavaScript é utilizado para adicionar as funcionalidades da calculadora, como adicionar atividades, atualizar a tabela e calcular a média final.
+O código JavaScript utiliza eventos para escutar a ação do usuário (como o clique no botão "Adicionar +") e manipular o conteúdo da página em tempo real.
+As funções JavaScript são organizadas de forma clara e bem estruturada, tornando o código fácil de entender e de modificar.
